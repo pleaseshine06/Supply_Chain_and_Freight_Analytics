@@ -18,7 +18,7 @@ This project involves developing a business intelligence dashboard purely using 
 
 ## Scope of Analysis
 
-•	The analysis covers:
+**•	The analysis covers:**
 
   1) Total Sales representing overall business generation
   2) Total Expenses including operational and freight costs
