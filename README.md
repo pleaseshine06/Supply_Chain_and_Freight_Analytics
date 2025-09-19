@@ -6,11 +6,17 @@ This project involves developing a business intelligence dashboard purely using 
 
 ## Problem Statement
 
-•	Lack of visibility into logistics and freight costs affecting cost control.
-•	Variability in profitability between product categories and regions.
-•	Identification of seasonal trends and customer behavior patterns impacting sales and expenses.
+  1) Lack of visibility into logistics and freight costs affecting cost control.
+  2) Variability in profitability between product categories and regions.
+  3) Identification of seasonal trends and customer behavior patterns impacting sales and expenses.
 
-## Scope of Analysis 
+## Tools & Technologies used
+
+  1) Microsoft Excel (advanced formulas, PivotTables, charts, Power Query)
+  2) Data cleaning and preprocessing within Excel
+  3) Interactive dashboards leveraging Excel slicers and visualization tools
+
+##Scope of Analysis
 
 •	The analysis covers:
 
