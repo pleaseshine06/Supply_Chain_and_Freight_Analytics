@@ -16,7 +16,7 @@ This project involves developing a business intelligence dashboard purely using 
   2) Data cleaning and preprocessing within Excel
   3) Interactive dashboards leveraging Excel slicers and visualization tools
 
-##Scope of Analysis
+## Scope of Analysis
 
 •	The analysis covers:
 
