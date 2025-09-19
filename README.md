@@ -17,7 +17,7 @@ This project involves the development of a business intelligence dashboard desig
 
 ## Dashboard Image
 
-<img width="3374" height="1884" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/441bb872-5396-4b5c-acc1-80a8ecf3db7f" />
+<img width="3320" height="1884" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/01eb85f3-21a2-4ef8-90cd-ca47257b6d09" />
 
 ## Conclusion
 
