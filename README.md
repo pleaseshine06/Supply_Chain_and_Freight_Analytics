@@ -4,6 +4,12 @@
 
 This project involves developing a business intelligence dashboard purely using Microsoft Excel to analyze supply chain data across product categories, regions, and customer types. The dashboard identifies operational inefficiencies, optimizes freight utilization, and improves profitability by tracking key performance indicators such as sales, expenses, freight costs, tonnage, and regional performance in a user-friendly visual format entirely within Excel.
 
+## Problem Statement
+
+•	Lack of visibility into logistics and freight costs affecting cost control.
+•	Variability in profitability between product categories and regions.
+•	Identification of seasonal trends and customer behavior patterns impacting sales and expenses.
+
 ## Scope of Analysis 
 
 •	The analysis covers:
