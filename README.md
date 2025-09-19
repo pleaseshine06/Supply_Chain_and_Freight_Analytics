@@ -6,10 +6,11 @@ This project involves the development of a business intelligence dashboard desig
 
 ## Scope of Analysis 
 
-The analysis covers:
-Total Sales representing overall business generation
-Total Expenses including operational and freight costs
-Freight Expenses detailing transportation costs
-Tonnage indicating volume moved and freight efficiency
-Monthly Profit Trends highlighting financial performance and volatility
-Top Performing Regions with focus on Mumbai as the highest contributor
+•	The analysis covers:
+
+  1) Total Sales representing overall business generation
+  2) Total Expenses including operational and freight costs
+  3) Freight Expenses detailing transportation costs
+  4) Tonnage indicating volume moved and freight efficiency
+  5) Monthly Profit Trends highlighting financial performance and volatility
+  6) Top Performing Regions with focus on Mumbai as the highest contributor
