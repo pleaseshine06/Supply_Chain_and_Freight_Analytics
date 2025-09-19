@@ -15,6 +15,10 @@ This project involves the development of a business intelligence dashboard desig
   5) Monthly Profit Trends highlighting financial performance and volatility
   6) Top Performing Regions with focus on Mumbai as the highest contributor
 
+## Dashboard Image
+
+<img width="1017" height="559" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/23fe5af4-21c6-4fd1-8b00-50f8f934dcf1" />
+
 ## Conclusion
 
 The Supply Chain and Freight Analytics Dashboard simplifies complex datasets into actionable insights supporting data-driven decision-making. Continuous updates and strategic alignment with dashboard findings can drive sustained operational efficiency and profitability improvements.
