@@ -14,3 +14,7 @@ This project involves the development of a business intelligence dashboard desig
   4) Tonnage indicating volume moved and freight efficiency
   5) Monthly Profit Trends highlighting financial performance and volatility
   6) Top Performing Regions with focus on Mumbai as the highest contributor
+
+## Conclusion
+
+The Supply Chain and Freight Analytics Dashboard simplifies complex datasets into actionable insights supporting data-driven decision-making. Continuous updates and strategic alignment with dashboard findings can drive sustained operational efficiency and profitability improvements.
